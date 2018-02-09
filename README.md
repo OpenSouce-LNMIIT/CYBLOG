@@ -4,7 +4,7 @@ Official blog of Cybros-LNMIIT<br>
 
 We would be using Gatsby, React to build this project [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/)
 
-This project is meant for Y17, we want you to learn more and more so start contributing in anyway you can.
+This project is meant for Y17 & Y16, we want you to learn more and more so start contributing in anyway you can.
 
 NOTE: YOU NEED TO HAVE NODE.JS INSTALLED TO RUN THIS.
 
