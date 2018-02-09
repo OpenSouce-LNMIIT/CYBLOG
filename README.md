@@ -17,8 +17,8 @@ $ npm install
 $ gatsby develop
 // Then go to http://localhost:3000/ 
 ```
-Please ask any problems you face in our gitter channel.
-[![Ask your queries](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg)](https://gitter.im/LNMIIT-Computer-Club/cybrosX)
+Please ask any problems you face in our slack channel.
+[![Ask your queries](https://join.slack.com/t/cybros-lnmiit/shared_invite/enQtMzEyMjQ0OTg0NjQ1LTUwN2I0YmI5NzRmMjMwNWM2YjQ0NjI3NWMzZTdhODRlYzU2N2RjNGI3NjA0ZmFhMTgxZjkxODY4YTY4NzRjMWM)
 
 ## Contributing Practices
 
