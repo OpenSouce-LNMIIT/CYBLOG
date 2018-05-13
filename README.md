@@ -2,23 +2,11 @@
 Official blog of Cybros-LNMIIT<br>
 ![DUB](https://img.shields.io/dub/l/vibe-d.svg?style=flat) 
 
-We would be using Gatsby, React to build this project [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/)
-
-This project is meant for Y17 & Y16, we want you to learn more and more so start contributing in anyway you can.
+We will using MEAN Stack
 
 NOTE: YOU NEED TO HAVE NODE.JS INSTALLED TO RUN THIS.
 
 ## Installing and starting
-```
-$ npm install --global gatsby-cli
-$ git clone https://github.com/Cybros/CYBLOG.git
-$ cd CYBLOG
-$ npm install
-$ gatsby develop
-// Then go to http://localhost:3000/ 
-```
-Please ask any problems you face in our slack channel.
-[Ask your queries](https://join.slack.com/t/cybros-lnmiit/shared_invite/enQtMzEyMjQ0OTg0NjQ1LTUwN2I0YmI5NzRmMjMwNWM2YjQ0NjI3NWMzZTdhODRlYzU2N2RjNGI3NjA0ZmFhMTgxZjkxODY4YTY4NzRjMWM)
 
 ## Contributing Practices
 
