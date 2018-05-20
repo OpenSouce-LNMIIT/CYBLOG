@@ -1,31 +1,28 @@
 # CYBLOG
-Official blog of Cybros-LNMIIT<br>
-![DUB](https://img.shields.io/dub/l/vibe-d.svg?style=flat) 
 
-We will using MEAN Stack
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.4.
 
-NOTE: YOU NEED TO HAVE NODE.JS INSTALLED TO RUN THIS.
+## Development server
 
-## Installing and starting
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Contributing Practices
+## Code scaffolding
 
-Don't worry we'll have some relaxation in these guidelines initially but try sticking to it.
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|module`.
 
-**Commits**
+## Build
 
-* Write clear and meaningful git commit messages (Do read http://chris.beams.io/posts/git-commit/)
-* Make sure your PR's description contains GitHub's special keyword references that automatically close the related issue when the PR is merged. (More info at https://github.com/blog/1506-closing-issues-via-pull-requests )
-* When you make very very minor changes to a PR of yours (like for example fixing a failing Travis build or some small style corrections or minor changes requested by reviewers) make sure you squash your commits afterward so that you don't have an absurd number of commits for a very small fix. (Learn how to squash at https://davidwalsh.name/squash-commits-git )
-* When you're submitting a PR for a UI-related issue, it would be really awesome if you add a screenshot of your change or a link to a deployment where it can be tested out along with your PR. It makes it very easy for the reviewers and you'll also get reviews quicker.
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
+## Running unit tests
 
-**Join the development**
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-* Before you join development, please set up the project on your local machine, run it and go through the application completely.
-* If you would like to work on an issue, drop in a comment at the issue. If it is already assigned to someone, but there is no sign of any work being done, please feel free to drop in a comment so that the issue can be assigned to you if the previous assignee has dropped it entirely.
+## Running end-to-end tests
 
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Before running the tests make sure you are serving the app via `ng serve`.
 
-## License
+## Further help
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
